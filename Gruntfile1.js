@@ -6,14 +6,14 @@ module.exports = function (grunt) {
     grunt.initConfig({
         cssmin: {
             build: {
-                src:'F:/hejian/模板/dome/1/js/2/test1.css',
-                dest:'F:/hejian/模板/dome/1/js/2/test1.min.css'
+                src:'F:/模板/dome/1/js/2/test1.css',
+                dest:'F:/模板/dome/1/js/2/test1.min.css'
             }
         },
         uglify: {
             build: {
-                src: 'F:/hejian/模板/dome/1/js/1/test1.js',
-                dest: 'F:/hejian/模板/dome/1/js/1/test1.min.js'
+                src: 'F:/模板/dome/1/js/1/test1.js',
+                dest: 'F:/模板/dome/1/js/1/test1.min.js'
             }
         }
     });
