@@ -40,7 +40,7 @@ module.exports = function (grunt) {
             options:{
                 jshintrc:'.jshint'
             },
-            build:['Gruntfile.js','F:/hejian/模板/dome/1/js/1/!*.js','!F:/hejian/模板/dome/1/js/1/!*.min.js'] //不检查压缩的js
+            build:['Gruntfile.js','F:/模板/dome/1/js/1/!*.js','!F:/模板/dome/1/js/1/!*.min.js'] //不检查压缩的js
         }*/
         /*  ,
         //watch自动化
