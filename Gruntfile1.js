@@ -1,5 +1,5 @@
 /**
- * Created by hejian on 2017/10/12.
+ * Created by shutong037 on 2017/10/12.
  */
 /*  单个文件压缩*/
 module.exports = function (grunt) {
